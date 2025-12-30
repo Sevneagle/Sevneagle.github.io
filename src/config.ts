@@ -22,7 +22,7 @@ import { LinkPreset } from "./types/config";
 const SITE_LANG = "zh_CN"; // 语言代码，例如：'en', 'zh_CN', 'ja' 等。
 const SITE_TIMEZONE = 8; //设置你的网站时区 from -12 to 12 default in UTC+8
 export const siteConfig: SiteConfig = {
-	title: "Mizuki",
+	title: "Test",
 	subtitle: "One demo website",
 	siteURL: "https://patchouli.group/", // 请替换为你的站点URL，以斜杠结尾
 	siteStartDate: "2025-12-30", // 站点开始运行日期，用于站点统计组件计算运行天数
@@ -141,10 +141,10 @@ export const siteConfig: SiteConfig = {
 			title: "美しいミズキ", // 主页横幅主标题
 
 			subtitle: [
-				"特別なことはないけど、君がいると十分です",
-				"今でもあなたは私の光",
-				"君ってさ、知らないうちに私の毎日になってたよ",
-				"君と話すと、なんか毎日がちょっと楽しくなるんだ",
+				"特に才能もないし何を掴み取れと言うんだろうな",
+				"暗く狭いのが好きだった 深く被るフードの中",
+				"悴んだ心 ふるえる眼差し,世界で 僕は ひとりぼっちだった",
+				"やり残した鼓動が この夜を覆って,僕らを包んで 粉々になる前に",
 				"114514,1919810",
 			],
 			typewriter: {
